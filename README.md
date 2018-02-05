@@ -8,7 +8,7 @@ sudo pip install Clarifai
 # Setup
 
 Example conf.py
-``
+```
 # From https://clarifai.com/developer/account/applications
 
 clarifai_key = '<~32 characters>'
